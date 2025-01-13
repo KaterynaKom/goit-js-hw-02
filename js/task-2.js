@@ -1,0 +1,4 @@
+function formatMessage(message, maxLength) {
+    
+    
+}
